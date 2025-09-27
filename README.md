@@ -2,13 +2,6 @@
 
 I'm a final-year **Systems and Computer Engineering** student at the National University of Colombia, passionate about harnessing technology to solve real-world problems. My journey revolves around **data science**, **frontend development**, and exploring the transformative potential of **artificial intelligence**. 🚀
 
-## 🌟 About Me
-- 🎓 Pursuing a degree in Systems and Computer Engineering, with a focus on **data-driven decision-making**.
-- 💡 Aspiring **data scientist**, eager to uncover insights from data and contribute to impactful solutions.
-- 🌐 Skilled in crafting intuitive and modern user interfaces using **React** and **Next.js**.
-- 🤖 Curious about **AI** and its applications in creating innovative, scalable systems.
-- 🧠 A proactive learner and leader, committed to building tech with purpose and collaboration.
-
 ## 🛠️ Tech & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
